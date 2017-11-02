@@ -1,2 +1,2 @@
-# display_temo
+# display_tempo
 Relógio digital web
